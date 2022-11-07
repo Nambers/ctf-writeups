@@ -176,7 +176,9 @@ binary code:
 ```
 ## angr
 According to the binary code, I will use angr to explore possible input.  
-The entry state will be `0x1012e6`, the success state is `0x1013c1` and the fail state is `0x1013cf`.  
+The entry state will be `0x1012e6` (the start address of this function).  
+The success state is `0x1013c1` (the address of print "Congratulations").  
+The fail state is `0x1013cf` (the address of print "Failure").  
 Because the pie base address in Ghidra is `0x100000` and the pie base in angr is `0x400000`, I change the `0x1012e6`, `0x1013c1` and `0x1013cf` to `0x4012e6`, `0x4013c1` and `0x4013cf`.  
 # Solution
 ```python
