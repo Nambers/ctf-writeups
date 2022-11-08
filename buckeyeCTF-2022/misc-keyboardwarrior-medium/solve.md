@@ -26,7 +26,7 @@ In [second post](https://blog.csdn.net/qq_34254642/article/details/126672201)
 - I get meaning of that 8 bytes value:
 The first byte is about ctrl, shift, alt and GUI key.
 The 3rd byte is about what other key is pressed.
-- And the detail of 3rd byte represent: 
+- And the detail of 3rd byte represent:  
 ![keyboard](keyboard_protocol.jpg)  
 
 Alright, now I get the meaning of those value, it is time for writing solution script.  
@@ -245,4 +245,4 @@ THREE
 R
 RIGHT_BRACKET
 ```
-Then remove all line break, lower all character, replace `MINUS` to `_` and replace `LEFT_BRACKET RIGHT_BRACKET` to `{ }`.  
+Then remove all line break, lower all character, replace `MINUS` to `_` (because the shift is also pressed) and replace `LEFT_BRACKET RIGHT_BRACKET` to `{ }`.  
