@@ -1,4 +1,5 @@
 # BuckeyeCTF - 2022
-[offical website](https://pwnoh.io/)  
+[official website](https://pwnoh.io/)  
 [public repository](https://github.com/cscosu/buckeyectf-2022-public)  
+Rank: 11%, 78th of All (688 teams).  
 11/4/2022  
