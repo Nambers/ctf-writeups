@@ -1,0 +1,3 @@
+[submodule "OSUCyberClub-bootcamp-writeups"]
+	path = OSUCyberClub-bootcamp
+	url = git@github.com:Nambers/OSUCyberClub-bootcamp-writeups.git
