@@ -17,22 +17,22 @@ data.zip \[provided by challenge\]
 second_rar.rar
 output_grep_rar.txt
 # Steps
-use `grep -aPr <keyword>` to search in `[unallocated space]` (aka trash bin). This challenge has at least two solution.
+use `grep -aPr <keyword>` to search in `[unallocated space]` (aka trash bin). This challenge has at least two solutions.
 ## 1st solution
-1. use `grep -aPr "profit"`
+1. use `grep -aPr "profit"`  
 2. I notice that there is a suspect GitHub link repeat many times in output: `https://raw.githubusercontent.com/awesomecorp3234243523/private-documents/main/profits.rar`
-3. this link is 404, but I can access the repository
-4. Find flag in `https://github.com/awesomecorp3234243523/private-documents/blob/main/profits_old.jpg`
+3. this link is 404, but I can access the repository  
+4. Find flag in https://github.com/awesomecorp3234243523/private-documents/blob/main/profits_old.jpg
 
 ## 2nd solution
-In this chal, I try many different file headers(found in [wiki](https://en.wikipedia.org/wiki/List_of_file_signatures)):
-![1679260794397](image/solve/1679260794397.png)
+In this chal, I try many different file headers(found in [wiki](https://en.wikipedia.org/wiki/List_of_file_signatures)):  
+![1679260794397](image/solve/1679260794397.png)  
 Eventually, I found a suspect rar by grep rar header.
-1. by using `grep -aPr "\x52\x61\x72\x21\x1A\x07"`, we can find two rar files in file `03121769/03593167`. (output in `output_grep_rar.txt`)
-2. manually export those rar from bin file
-2.1 open `03121769/03593167` in hex editor (in my case, it is HxD)
-![1679261403233](image/solve/1679261403233.png)
-2.2 manually find rar data region end
+1. by using `grep -aPr "\x52\x61\x72\x21\x1A\x07"`, we can find two rar files in file `03121769/03593167`. (output in `output_grep_rar.txt`)  
+2. manually export those rar from bin file  
+2.1 open `03121769/03593167` in hex editor (in my case, it is HxD)  
+![1679261403233](image/solve/1679261403233.png)  
+2.2 manually find rar data region end  
     - for first one: `4A1FA00` - `4D5F81A`
     - for second one: `52F6000` - `534D952`
 2.3 export those:
