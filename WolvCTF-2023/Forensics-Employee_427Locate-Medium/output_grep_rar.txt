@@ -1,0 +1,69 @@
+eritquearcus@DESKTOP:/data/[unallocated space]$ grep -aPr "\x52\x61\x72\x21\x1A\x07"
+03121769/03593167:Please download a fresh copy and retry the installationCopyright   1993-%dExtracting files to %s folder$Extracting files to temporary folderExtractExtraction progress=Total path and file name length must not exceed %d charactersPausContinueSecurity warningKPlease remove %s from folder %s. It is unsecure to run %s until it is done.      ( 8 H P X ` h p x               ȥХإ    ب        ȩH P X ` h p x            ( 0 8 @ H P X ` h p x                   ȩЩة          ( 0 8 @ H P X ` h p x                   ȪЪت         (  ` h p x                   Ȫ8 P X `         ( 0 8 ` ȭЭح     0 @ P ` p           Ю      0 @ P ` p           Я        0 @ P ` p           Р      0 @ P ` p           С      0 @ P ` p           Т      0 @ P ` p           У      0 @ P ` p           Ф  ȫЫث    Яد     0    ( 0 8 @ H P h x                 ȠРؠ          ( 0 8 @ H P X ` h p x                   ȡСء          ( 0 8 @ H P X ` h p x                   ȢТآ          ( 0 8 @ H P X ` h           ȨШب                     @<     ( 0 8 @ H P X ` h p h x         ȯد   P   ( 8 H X h x         Ƞؠ    ( 8 H X h x         ȡء    ( 8 H X h x         Ȣآ    ( 8 H X h x         ȣأ    ( 8 H X h x         Ȥؤ    ( 8 H X h x         ȥإ    ( 8 H X h x         Ȧئ    ( 8 H X h x         ȧا    ( 8 H X h x         Ȩب    ( 8 H X h x         ȩة    ( 8 H X h x         Ȫت    ( 8 H X h x         ȫث    ( 8 H X h x         Ȭج    ( 8 H X h x     `     Щ      0 @ P ` p           Ъ      0 @ P ` p           Ы      0 @ P ` p           Ь      0 @ P ` p           Э      0 @ P ` p           Ю      0 @ P ` p           Я  p    0 @ P ` p           Р      0 @ P ` p           С      0 @ P ` p           Т      0 @ P ` p           У      0 @ P ` p           Ф      0 @ P ` p           Х      0 @ P ` p           Ц      0 @ P ` p           Ч  
+                                                                                         0 8  ( 0 8 @ H P С  Т        ( 0 8 @ H P X h x         ȣأ    ( 8 H X h x         Ȥؤ    ( 8 H X h x         ȥإ    ( 8 H X h x         Ȧئ    ( 8 H X h x         ȧ `   Ȩ ( X p x       @0 8 @ H P X ` h p x                  @ h     آ ( P        ( 0 8 @ H P X h x                 ȠРؠ         ( 0 8 @ H P X ` h p x                   ȡСء          ( 0 8 @ H P X ` h p x                   Тآ     Rar! O _
+                                                                                                                        ؜  З    eR| CMT; WinRAR
+03121769/03593167: Kc  d mw   ' H V  U hu /e T esxc  &V0 z   K  U1 5 W* W©I  X *ˉH +    hz@  ,E 4    <      8VG\    Jp  = ,vuj  D8w y i~ L =  ݴ@ʑ=  ~ y O Аz   ycKe W  W3       =  誵   l  b  w 9 F`, 
+                                                                                          C 5  ؟  e8mO? R _ ƒ    n  a >  ym٘    O  #   te    ʱINDX(       &G( os u  j    Z  W   Z  W   Z  W   Z  W   cancelIcon.svg.copy0lu pZ    Z  W   Z  W   Z  W   Z  W   
+                                  CANCEL~1.COPosic pZ     
+                                                               `W    
+                                                                      `W   Z  W    
+                                                                                     `W   
+                                                                                                CANCEL~1.SVGosib  l     
+                                                                                                                             `W    
+     `W j X  W    
+                    `W     checkbxComposite.svg.sb pZ     
+                                                                     `W    
+                                                                            `W j X  W    
+                                                                                           `W     
+                                                                                                      CHECKB~1.SVGvera  l     
+    `W    
+           `W j X  W    
+                          `W    checkmark_hovered.svg.s`  t     
+                                                                            `W    
+                                                                                   `W  ;V  W    
+                                                                                                  `W    checkmark_in_progress.svg_  n     
+                        `W    
+                               `W  ;V  W    
+                                              `W    checkmark_elected.svg_ pZ     
+                                                                                                `W    
+                                                                                                       `W  ;V  W    
+                                                                                                                      `W    
+   CHECKM~1.SVG` pZ     
+                               `W    
+                                      `W  ;V  W    
+                                                     `W    
+                                                                 CHECKM~2.SVGa pZ     
+                                                                                             `W    
+                                                                                                    `W j X  W    
+                                                                                                                   `W    
+                                                                                                                              CHECKM~3.SVG^ hX     
+                           `W    
+                                  `W  ;V  W    
+                                                 `W ('  
+                                                              chevron.svg] p\     
+                                                                                       `W    
+                                                                                              `W  ;V  W   
+chevronUp.svgin] pZ                                                                                    `W   
+                             `W    
+                                    `W  ;V  W    
+                                                   `W   
+                                                            CHEVRO~1.SVGlinY pZ     
+                                                                                         `W    
+                                                                                                `W d]  W    
+                                                                                                               `W   
+                                                                                                                          CL7208~1.SVGlinZ pZ     
+                        `W    
+                               `W  ;V  W    
+                                              `W    
+                                                          CL9D91~1.SVGor.\ p^     
+                                                                                       `W    
+                                                                                              `W  ;V  W    
+                                                                                                             `W    clock_icon.svg\ pZ     
+                       `W    
+                              `W  ;V  W    
+                                             `W    
+                                                         CLOCK_~1.SVG
+                                                                               $KERNEL.SMARTLOCKER.ORIGINCLAIM. s   y*.Bg   | E  p ]<{: Qt@ \Program Files (x86)\Microsoft\Edge\Application\111.0.1661.41\Installer\setup.exep.X3$KERNEL.PURGE.APPID. { R Sy Y m   ^ )^,$KERNEL.PURGE.SMARTLOCKER.VALIDSMV1Rar!> cW
+                                                                        z z)
+                                                                                      {' P 
+                                                                                               profits.jpg
