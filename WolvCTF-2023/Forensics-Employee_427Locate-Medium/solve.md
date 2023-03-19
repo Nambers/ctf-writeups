@@ -35,12 +35,12 @@ Eventually, I found a suspect rar by grep rar header.
 2.2 manually find rar data region end  
     - for first one: `4A1FA00` - `4D5F81A`
     - for second one: `52F6000` - `534D952`
-2.3 export those:
-2.3.1 right click and select `region`
-2.3.2 plug those hex addr in
-2.3.3 `File -> export region`
-3. the first one is WinRaR and the second one is a rar file contained two jpg
-4. decompress `second_rar.rar`
+2.3 export those:  
+2.3.1 right click and select `region`  
+2.3.2 plug those hex addr in  
+2.3.3 `File -> export region`  
+3. the first one is WinRaR and the second one is a rar file contained two jpg (`second_rar.rar`)  
+4. decompress `second_rar.rar`  
 5. I have no idea how to combine those two jpeg file into flag image, thanks for **Gent** who writes this script to build flag image:
 ```python
 with open("profits_redacted.jpg", "rb") as fi:
