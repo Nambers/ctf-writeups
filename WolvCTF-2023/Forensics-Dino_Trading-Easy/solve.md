@@ -5,7 +5,7 @@ I love trading dinosaurs with my friends! I'm sure nobody can see what we're sen
 Wireshark file - download.pcapng  
 # Step
 At first I thought this is a chal for sFTP or FTPs, but it just a original FTP chal.  
-Therefore, after double checking there isn't any other useful information in pcapng file other than the image file in FTP, I focus on that img file.
+Therefore, after double checking there isn't any other useful information in pcapng file other than the image file in FTP, I focus on that img file.  
 1. add a `ftp-data` filter in wireshark
 ![filter](image/solve/1679259391237.png) 
 2. export it from wireshark  

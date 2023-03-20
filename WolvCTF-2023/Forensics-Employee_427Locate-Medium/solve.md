@@ -13,9 +13,9 @@ Employee 427 loved their job. Employee 427 does not want to be fired
 Employee 427 hopes that you will be able to locate the file that Employee 427 lost. Same triage as Employee 427: Compromised
 
 ## Resource
-data.zip \[provided by challenge\]
-second_rar.rar
-output_grep_rar.txt
+data.zip \[provided by challenge\]  
+second_rar.rar  
+output_grep_rar.txt  
 # Steps
 use `grep -aPr <keyword>` to search in `[unallocated space]` (aka trash bin). This challenge has at least two solutions.
 ## 1st solution

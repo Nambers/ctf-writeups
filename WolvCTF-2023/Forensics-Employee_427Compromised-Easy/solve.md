@@ -20,12 +20,12 @@ The triage data can be found here
 
 ## Resources
 
-triage data - data.zip \[provided by challenge\]
-output.txt
+triage data - data.zip \[provided by challenge\]  
+output.txt  
 
 # Steps
 
-There are a lot of data and binary file in the zip file. Therefore, I try to find something interesting by using `grep -aPr` and some keywords.
+There are a lot of data and binary file in the zip file. Therefore, I try to find something interesting by using `grep -aPr` and some keywords.  
 
 1. so I start in `[root]`
 2. `grep -Pr "profit" > output.txt` (output in `output.txt`)
@@ -37,5 +37,5 @@ There are a lot of data and binary file in the zip file. Therefore, I try to fin
    rm profits.jpg; #pastebin-dot-com-slash-75Muuu8m
    echo this dude is going to be so screwed at his meeting LOL
    exit
-   ```
+   ```  
 5. then after opening the pastebin link `pastebin.com/75Muuu8m`, we got flag
