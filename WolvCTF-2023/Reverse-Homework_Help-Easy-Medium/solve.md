@@ -5,7 +5,7 @@ I wrote a program to solve my math homework so I could find flags. Unfortunatly 
 homework_help - executable
 # Steps
 At first I try to use Angr solve the input to let this print `Thanks, I\'ll help you check the flag`.  
-But it is not necessary, the input obviously is 3. Then, I notice that the real core function is `__stack_chk_fail`. It is not the system one! I was fooled by this name lol.  
+But it is not necessary, the input obviously is 3. Then, I notice that the real key function is `__stack_chk_fail`. It is not the system one!! I was fooled by this name lol.  
 Therefore, I build an Angr script to find the proper input of this func.  
 
 # Solution
