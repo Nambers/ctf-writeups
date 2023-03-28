@@ -1,3 +1,5 @@
+# Game
+# solution
 For summary:
 Use python code to get the locked door path:
 ```python
