@@ -190,7 +190,7 @@ But the result is still ambiguous (at least one emoji value is ambiguous, e.g. �
 # s.add(random_7_bit2 >= IntVal(int('1000000', 2)))
 # s.add(random_7_bit2 <= IntVal(int('1111111', 2)))
 ```
-Therefore, there is no choice but do some manually analysis (thanks for **qxxxb** which do this):
+Therefore, there is no choice but do some manually analysis (analyzed by **qxxxb**):
 ```python
 # manually found, if not, there will be some ambiguity, e.g. 💯 can be 22 or 26
 s.add(vals[keys.index('📡')] == IntVal(4))

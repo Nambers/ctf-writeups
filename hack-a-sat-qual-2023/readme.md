@@ -3,3 +3,5 @@
 [scoreboard](https://quals.2023.hackasat.com/scoreboard/complete)  
 Rank: 1%, 17th of All (381 teams). (With OSU cybersecurity club)  
 02/04/2023  
+
+~~P.S.: First half of this competition is about physics?!~~
