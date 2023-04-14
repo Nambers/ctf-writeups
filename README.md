@@ -4,6 +4,16 @@ This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].  
 CTF-WriteUps  
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#003f5c', 'pie2': '#58508d', 'pie3': '#bc5090', 'pie4': '#ff6361', 'pie5': '#ffa600'}}}%%
+pie
+    "rev": 6
+    "web": 4
+    "crypto" : 3
+    %% based_emoji incuded
+    "misc": 3
+    "forensics": 3
+```
+
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
