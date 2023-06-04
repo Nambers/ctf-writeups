@@ -9,4 +9,5 @@ It's just a simple math test, says your teacher. Just a few additions. What coul
 Pwn2.zip
 ## Solution
 > Basic knowledge: `rand` will generate number based on the seed. If the seed is the same, the number generated will be the same.  
+
 Check [solve.ipynb](./solve.ipynb).  

@@ -10,6 +10,7 @@ Unfortunately, all of Ryzon's brain cells are destroyed due to how scuffed ICS5U
 SPECIAL NOTE, PLEASE READ
 
 The flag format for this problem is different from the rest, it is: ctf{[!-z]{6,128}} (the part inside the bracket can be any string of 6-128 printable ASCII characters, including letters, numbers, and symbols).
+
 ---
 ## Resources
 Rev3.zip
