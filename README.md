@@ -11,9 +11,9 @@ pie
     "web": 7
     "crypto" : 5
     %% based_emoji incuded
-    "misc": 4
+    "misc": 7
     "forensics": 5
-    "pwn": 3
+    "pwn": 6
 ```
 *Thanks to all organizers for hosting wonderful CTFs and challenges!!!*
 
