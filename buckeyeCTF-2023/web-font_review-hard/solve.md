@@ -18,7 +18,7 @@ mbund
 ### Solving
 0. First of all, I choose to use `svg` font as same as the tip in `hacktricks`. Then we need to use `fontforge` to convert `svg` to `woff` (since the browser no longer support svgfont).
 1. The basic idea is to make a custom font with custom width of each char to make it not overflow normally. Then give a significant width to flag `ligatures` to make it overflow.
-2. Unlike the solve script in `hacktricks`, we can't just simply set all other character to zero (the width of ligatures will be larger than its range to make it overflow).
+2. Unlike the solve script in `hacktricks`, we can't just simply set all other character to zero (then in order to make the page overflow, we need to set the width of ligatures larger than its range).
 3. After that, we can just leak the flag char by char by adding char into flag ligatures.
 4. Done!
 

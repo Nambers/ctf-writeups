@@ -11,7 +11,7 @@ rene
 0. By auditing the source code, we can find that program use `mongodb` to communicate with database (so-call `nosql`).
 1. Then there are two places we can try to do `nosql injection`: under `api/login` and `/`.
 2. Due to the restriction of `if (username && password && typeof username === 'string' && typeof password === 'string') {`, we can't do injection in here.
-3. However under `/`, there is no restriction. Therefore, we can pass `{"token": {"$regex": "^bctf{"}}` to `session` in order to leak the flag char by char (If the regex hit, the router will redirect us to `dashborard`, if not, we will go to `index`).
+3. However under `/`, there is no restriction. Therefore, we can pass `{"token": {"$regex": "^bctf{"}}` to `session` in order to leak the flag char by char (If the regex hit, the router will redirect us to `dashborard`, if not, we will go to `index`). [reference in hackertricks](https://book.hacktricks.xyz/pentesting-web/nosql-injection#extract-data-information)
 4. Done!  
 
 final solve script:  

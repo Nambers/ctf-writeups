@@ -44,3 +44,4 @@ mbund
     ```
 4. `docker-compose up` the container on local, and generate a new cert PDF encrypted by `HS256` and `publicKey`.
 5. Done!
+6. 💯 Is this the reason you're in first place? bctf{47_l3457_17_w45n7_4n_4c7u4l_pdf_ch4ll3n63}
