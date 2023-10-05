@@ -7,7 +7,7 @@ CTF-WriteUps
 <!-- Favor aspects: Msic + Osint, Foren, Rev  -->
 <!-- Learning aspects: Pwn, Crypto -->
 
-*Thanks to all organizers for hosting wonderful CTFs and challenges!!!*  
+***Shout out** to all organizers: thanks for hosting wonderful CTFs and challenges!!!*  
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
