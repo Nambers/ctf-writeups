@@ -1,0 +1,25 @@
+name: damaged SoC
+author: Eritque Arcus
+category: rev
+description: |-
+  Due to previous X ray damage, a part of SoC bFlash memory is corrupted. The board is unable to pass self-verification and boot.
+  :/
+
+  **author**: Eritque Arcus
+value: 500
+type: dynamic
+tags:
+  - medium
+extra:
+  initial: 500
+  decay: 75
+  minimum: 50
+flags:
+  - uiuctf{U_Uctf_m1psl0ver#0d00_abcdefghi}
+files:
+  - dist/memory.mem
+  - dist/SOC_run_sim
+  - dist/infra.zip
+# This is visible by default. It takes two values: hidden, visible.
+state: visible
+version: "0.1"

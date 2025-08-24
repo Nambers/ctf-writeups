@@ -1,0 +1,23 @@
+name: X_Ray
+author: Eritque Arcus
+category: misc
+description: |
+  OvO My SoC being "X-Rayed". Hope nothing leaks out.
+
+  **author**: Eritque Arcus
+
+value: 500
+type: dynamic
+extra:
+  initial: 500
+  decay: 75
+  minimum: 50
+flags:
+  - uiuctf{Ovo_fl4g_1s_this}
+tags:
+  - easy
+files:
+  - dist/trace.vcd
+  - dist/infra.zip
+state: visible
+version: "0.1"
