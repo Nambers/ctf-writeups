@@ -1,5 +1,7 @@
 # Damaged SoC
 
+- **Solve:20**
+
 This challenge shipped with a custom hardware implementation of MIPS64 litten endian ISA in System Verilog. The main point is use `syscall` as branch instruction to smash the control flow.
 
 ## Solution
